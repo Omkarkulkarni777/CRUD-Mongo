@@ -1,0 +1,21 @@
+20230304	13:42:13	f6cbc6a3-85e7-4a72-af9e-3fcd542eae66	Error: Not allowed by CORS
+20230304	13:43:36	6a2b8717-6c17-41f9-a449-bce0aada60b4	Error: Not allowed by CORS
+20230305	16:13:41	d5caa813-84f4-4d60-a6ee-a6673464fc2b	ReferenceError: employees is not defined
+20230305	16:14:46	2faac0fa-cbb9-4d08-a007-8973c9a6c15e	ReferenceError: employees is not defined
+20230307	10:14:31	13cc4e68-a8ab-4ab1-adf1-622fa9ab5929	ReferenceError: employees is not defined
+20230307	10:16:44	96a55933-6db0-489e-ab85-b34845b3540e	ReferenceError: employees is not defined
+20230307	10:18:02	59d2c68b-55e0-4dcc-ab4f-96b478bcafce	ReferenceError: employees is not defined
+20230307	10:18:08	e5c75580-6ee8-4a4c-a1ca-669b0e90c43f	ReferenceError: employees is not defined
+20230307	10:18:17	8e630f24-64f2-42f9-995a-985730fb9203	ReferenceError: employees is not defined
+20230307	10:19:42	c09cabd4-5f86-4219-a6fc-64e4aa139e9b	ReferenceError: employee is not defined
+20230307	16:17:17	b0079c84-0fec-45ad-a520-57439f5bebcd	ReferenceError: Cannot access 'filteredArray' before initialization
+20230307	16:18:49	5c3e79e4-1e43-4a9b-8d64-65e7d6a08c29	ReferenceError: Cannot access 'filteredArray' before initialization
+20230311	15:10:14	8159b642-35f4-4d03-a8dc-52f9785641a8	SyntaxError: Unexpected token ' in JSON at position 1
+20230311	15:10:19	ef6483d2-a5a0-4205-b3da-0276ebed481c	SyntaxError: Unexpected token ' in JSON at position 1
+20230311	15:33:20	b5e5ea2b-773f-4d6f-b1e4-bfcf2c54a6c3	ReferenceError: next is not defined
+20230311	15:34:24	ebc601c1-9832-4221-aa96-b66510b85dd6	ReferenceError: next is not defined
+20230312	14:42:56	ee85c661-8c20-4ea0-8c3d-291828702434	ReferenceError: next is not defined
+20230322	13:05:24	185bc5f7-8cd4-42ca-a2ea-147ec91e147a	SyntaxError: Unexpected token f in JSON at position 1
+20230322	13:05:43	4615ea04-a3f2-476d-b91f-00047cb57432	SyntaxError: Unexpected token f in JSON at position 4
+20230322	13:06:07	6cbc308e-0842-4684-a6d1-19ad611971f4	SyntaxError: Unexpected token u in JSON at position 4
+20230322	13:06:17	e6ed3170-0963-4936-b5a7-7dd6a08ff29b	SyntaxError: Unexpected token u in JSON at position 4
